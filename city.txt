@@ -1,0 +1,310 @@
+91,218
+Beit Lahya,31.550994278817814,34.50922165118508,0
+Gaza,31.501253861577805, 34.46701581238907,0
+jaber,31.58, 34.49,0
+Beit Hanoun,31.538261391802877, 34.53676965114103,0
+Rafah,31.29625088483921, 34.243732364279275,0
+Khan Younes,31.346125102552897, 34.30399825048203,0
+Abasan Al-kabera,31.322757251432872, 34.343938819716,0
+Khuzaa,31.30679990632534, 34.360132481035436,0
+Shejaiya,31.501015102192003, 34.47080684904503,0
+Der Albalah,31.416917110616794, 34.350930650724685,0
+Breij,31.438783852653966, 34.402561312173255,0
+Al magazi,31.421438633302525, 34.385415650740676,0
+Al Qarara,31.371236571384674, 34.33525965056785,0
+Nserat,31.449598792477403, 34.393251973586,0
+Johur Al Diek,31.454551157931572, 34.439161420682446,0
+Jabalia,31.52864275978128, 34.48007642684042,0
+Kuba, 31.487484680613715, 34.46672311586452,0
+Al Mughraqa,31.46808122905357, 34.41773631227448,0
+Wadi as Salqa,31.39684085389212, 34.36535348134243,0
+Al Qarya as Suwaydiya,31.323232995995628, 34.222341309921525,0
+Tal as Sultan,31.308978529746156, 34.24177897310475,0
+Al Zahra,31.47235769737339, 34.398514481601424,0
+um al naser,31.548455938913932, 34.51886173243345,0
+Shokat as Sufi,31.250949235192277, 34.26576655015677,0
+Umm Kameil,31.303668234898407, 34.301536481024506,0
+Bani Suheila,31.342335655433068, 34.32590763419608,0
+Shokat as Sufi cross,31.25438940599034, 34.2648344112434,1
+Shokat as Sufi cross salah aldeen,31.26652837312074, 34.280269674561254,1
+alorouba cross salah aldeen,31.270340639324807,34.27601941827168,1
+alorouba,31.268994908754575,34.26128711904439 ,1
+alorouba street,31.27522510065386,34.25295367140153 ,1
+alorouba cross,31.279042336189864, 34.25574513841726 ,1
+Al Mansheya cross Beit Lahya,31.546828367575507, 34.50727172890222,1
+Al Mansheya cross al awda,31.542983270703328, 34.51407268485413,1
+Al awda cross,31.54837093216955, 34.51944736894817,1
+Al awda um al naser cross,31.549027801238942, 34.5224791665304,1
+Al awda salah aldeen,31.548636627106657, 34.52869078342288,1
+Beit Hanoun salah aldeen cross,31.531994878467952, 34.51993515430142,1
+Al Saftawy Jabalia,31.53338416275643, 34.47277724298717,1
+Al Saftawy Al falouja,31.539295558425415, 34.48206846457108,1
+Al Saftawy Al falouja cross,31.53546057854092, 34.486446424971355,1
+Al falouja AL Mansheya,31.549437423962047, 34.497589373506216,1
+Al falouja AL awda,31.53794754855375, 34.507660973672834,1
+Al awda salah aldeen,31.52903899590229, 34.514611779095326,1
+Jabalia salah aldeen cross,31.52199053098267, 34.495624322749904,1
+Kuba salah aldeen,31.4944291030025, 34.45569046716593,1
+Johur Al Diek cross,31.446810180842125, 34.430485275168756,1
+Johur Al Diek salah aldeen,31.457038158614893, 34.41688525094302,1
+Al Mughraqa salah aldeen,31.46399399322373, 34.42513251873855,1
+Al Mughraqa Al Zahra,31.463728772567325, 34.40056841578003,1
+Al Nserat Breij salah aldeen,31.443442905992097, 34.39821257364773,1
+magazi salah aldeen,31.426484278125102, 34.377269443918095,1
+Wadi as Salqa salah aldeen,31.40248195977565, 34.35282220101002,1
+Der Albalah salah aldeen,31.40999045553687, 34.35985271409078,1
+Al Qarara salah aldeen,31.372131946916916, 34.331804497824486,1
+Al Qarara salah aldeen cross,31.356302595096174, 34.32697221359932,1
+salah aldeen cross Abasan,31.34417791314164, 34.314464914334046,1
+Khuzaa cross,31.309153666618304, 34.36441829498021,1
+Kaf Elabadla,31.35776911752118, 34.31610292951733,1
+Khan Younes cross,31.351563049114542, 34.30607419016734,1
+Khan Younes Qa' al Qurein cross,31.33768574924023, 34.30980274312412,1
+Qa' al Qurein cross,31.32874243359362, 34.31189681019132,1
+Qa' al Qurein,31.307811754371144, 34.31587553761899,1
+Bani Suheila cross,31.344085754388544, 34.3140011838624,1
+Shokat as Sufi Al Buyuki,31.266938277169253, 34.280601300120516,1
+Al Buyuki,31.27939096568675, 34.30819628977557,1
+Al Buyuki Qa' al Qurein cross,31.29298567906403, 34.314611472149565,1
+Ibn Sena street,31.307990151542516, 34.241545127278826,1
+Ibn Sena cross,31.307083895631813, 34.23687802703712,1
+Ibn Sena Kerr cross,31.3125292285019, 34.234185725298936,1
+Kerr cross,31.310168957760954, 34.227689807410414,1
+Kerr Al Qarya as Suwaydiya cross,31.322331724466206, 34.21986421666553,1
+Al Rasheed Al Qarya as Suwaydiya,31.32460570336929, 34.22113060574357,1
+Abu Baker,31.318447504244126, 34.2328485944747,1
+Abu Baker cross,31.326361164187304, 34.234245102781784,1
+Al Rasheed Abu Baker cross,31.331305661149795, 34.23019184848657,1
+Al Rasheed Khan Younes cross,31.364686843002318, 34.26954481702467,1
+Al Qarara to Al Matahen,31.384904312260403, 34.34075862462358,1
+Al Matahen,31.39143093282077, 34.33081976837717,1
+Al Matahen cross,31.38976049885748, 34.30943424748643,1
+Al Matahen Al Rasheed,31.392982023463986, 34.300069346181324,1
+Der Albalah Al Rasheed,31.42561243736793, 34.338550201156785,1
+Nserat Al Rasheed,31.459497718539815, 34.37096007571454,1
+Al Zahra Palestine street,31.470620888319083, 34.39681620500227,1
+Al Rasheed Palestine street,31.476562415473715, 34.38857192010737,1
+Al Rasheed Gaza,31.52702624306839, 34.43685211870218,1
+Al Rasheed Jabalia,31.54612557688755, 34.45481082498637,1
+Khan Younes Osama Al najar,31.309506191639557, 34.281294307125435,1
+Rafah Osama Al najar,31.28843219556004, 34.26334381261893,1
+Shokat as Sufi Osama Al najar,31.280361037257748, 34.25460424947777,1
+Zeitoun cross,31.514631161533035, 34.45096764120302,1
+Shokat as Sufi,Shokat as Sufi cross
+Shokat as Sufi cross,Shokat as Sufi
+Shokat as Sufi cross,Shokat as Sufi cross salah aldeen
+Shokat as Sufi cross salah aldeen,Shokat as Sufi cross
+Shokat as Sufi cross salah aldeen,alorouba cross salah aldeen
+alorouba cross salah aldeen,Shokat as Sufi cross salah aldeen
+alorouba cross salah aldeen,alorouba
+alorouba,alorouba cross salah aldeen
+alorouba,alorouba street
+alorouba street,alorouba
+alorouba street,alorouba cross
+alorouba cross,alorouba street
+alorouba cross,Rafah
+Rafah,alorouba cross
+Beit Lahya,Al Mansheya cross Beit Lahya
+Al Mansheya cross Beit Lahya,Beit Lahya
+Al Mansheya cross Beit Lahya,Al Mansheya cross al awda
+Al Mansheya cross al awda,Al Mansheya cross Beit Lahya
+Al Mansheya cross al awda,Al awda cross
+Al awda cross,Al Mansheya cross al awda
+Al awda cross,Al awda um al naser cross
+Al awda um al naser cross,Al awda cross
+Al awda um al naser cross,um al naser
+um al naser,Al awda um al naser cross
+Al awda um al naser cross,Al awda salah aldeen
+Al awda salah aldeen,Al awda um al naser cross
+Al awda salah aldeen,Beit Hanoun salah aldeen cross
+Beit Hanoun salah aldeen cross,Al awda salah aldeen
+Beit Hanoun salah aldeen cross,Beit Hanoun
+Beit Hanoun,Beit Hanoun salah aldeen cross
+Jabalia,Al Saftawy Jabalia
+Al Saftawy Jabalia,Jabalia
+Zeitoun cross,Al Saftawy Jabalia
+Al Saftawy Jabalia,Zeitoun cross
+Zeitoun cross,Gaza
+Gaza,Zeitoun cross
+Al Saftawy Jabalia,Al Saftawy Al falouja
+Al Saftawy Al falouja,Al Saftawy Jabalia
+Al Saftawy Al falouja,Al Saftawy Al falouja cross
+Al Saftawy Al falouja cross,Al Saftawy Al falouja
+Al falouja AL Mansheya,Beit Lahya
+Beit Lahya,Al falouja AL Mansheya
+Al falouja AL Mansheya,Al Saftawy Al falouja cross
+Al Saftawy Al falouja cross,Al falouja AL Mansheya
+Al Saftawy Al falouja,Al falouja AL awda
+Al falouja AL awda,Al Saftawy Al falouja
+Al awda salah aldeen,Beit Hanoun
+Beit Hanoun,Al awda salah aldeen
+Al awda salah aldeen,Al falouja AL awda
+Jabalia,Jabalia salah aldeen cross
+Jabalia salah aldeen cross,Jabalia
+Jabalia salah aldeen cross,Al awda salah aldeen
+Al awda salah aldeen,Jabalia salah aldeen cross
+Beit Hanoun salah aldeen cross,Jabalia salah aldeen cross
+Jabalia salah aldeen cross,Beit Hanoun salah aldeen cross
+Jabalia salah aldeen cross,Gaza
+Gaza,Jabalia salah aldeen cross
+Gaza,Shejaiya
+Shejaiya,Gaza
+Gaza,Kuba salah aldeen
+Kuba salah aldeen,Gaza
+Kuba,Kuba salah aldeen
+Kuba salah aldeen,Kuba
+Johur Al Diek salah aldeen,Johur Al Diek cross
+Johur Al Diek cross,Johur Al Diek salah aldeen
+Johur Al Diek,Johur Al Diek cross
+Johur Al Diek cross,Johur Al Diek
+Johur Al Diek salah aldeen,Gaza
+Kuba salah aldeen,Johur Al Diek salah aldeen
+Johur Al Diek salah aldeen,Kuba salah aldeen
+Gaza,Johur Al Diek salah aldeen
+Al Mughraqa salah aldeen,Johur Al Diek salah aldeen
+Johur Al Diek salah aldeen,Al Mughraqa salah aldeen
+Al Mughraqa,Al Mughraqa salah aldeen
+Al Mughraqa salah aldeen,Al Mughraqa
+Al Mughraqa salah aldeen,Gaza
+Kuba salah aldeen,Al Mughraqa salah aldeen
+Al Mughraqa salah aldeen,Kuba salah aldeen
+Gaza,Al Mughraqa salah aldeen
+Al Mughraqa Al Zahra,Al Mughraqa
+Al Mughraqa,Al Mughraqa Al Zahra
+Al Mughraqa Al Zahra,Al Zahra
+Al Zahra,Al Mughraqa Al Zahra
+Al Nserat Breij salah aldeen,Nserat
+Al Nserat Breij salah aldeen,Breij
+Nserat,Al Nserat Breij salah aldeen
+Breij,Al Nserat Breij salah aldeen
+Johur Al Diek salah aldeen,Al Nserat Breij salah aldeen
+Al Nserat Breij salah aldeen,Johur Al Diek salah aldeen
+magazi salah aldeen,Al Nserat Breij salah aldeen
+magazi salah aldeen,Al magazi
+Al Nserat Breij salah aldeen,magazi salah aldeen
+Al magazi,magazi salah aldeen
+Wadi as Salqa salah aldeen,Wadi as Salqa
+Wadi as Salqa,Wadi as Salqa salah aldeen
+Der Albalah salah aldeen,Wadi as Salqa salah aldeen
+Wadi as Salqa salah aldeen,Der Albalah salah aldeen
+Der Albalah salah aldeen,magazi salah aldeen
+magazi salah aldeen,Der Albalah salah aldeen
+Der Albalah salah aldeen,Der Albalah
+Der Albalah,Der Albalah salah aldeen
+Al Qarara,Al Qarara salah aldeen
+Al Qarara salah aldeen,Al Qarara
+Kaf Elabadla,Al Qarara salah aldeen
+Al Qarara salah aldeen,Kaf Elabadla
+Al Qarara salah aldeen,Wadi as Salqa salah aldeen
+Wadi as Salqa salah aldeen,Al Qarara salah aldeen
+Al Qarara salah aldeen,Al Qarara salah aldeen cross
+Al Qarara salah aldeen cross,Al Qarara salah aldeen
+salah aldeen cross Abasan,Al Qarara salah aldeen cross
+Al Qarara salah aldeen cross,salah aldeen cross Abasan
+Bani Suheila,salah aldeen cross Abasan
+salah aldeen cross Abasan,Bani Suheila
+Bani Suheila,Abasan Al-kabera
+Abasan Al-kabera,Bani Suheila
+Bani Suheila cross,Bani Suheila
+Bani Suheila,Bani Suheila cross
+Khuzaa,Khuzaa cross
+Khuzaa cross,Khuzaa
+Abasan Al-kabera,Khuzaa cross
+Khuzaa cross,Abasan Al-kabera
+salah aldeen cross Abasan,Khan Younes
+Khan Younes,salah aldeen cross Abasan
+Al Qarara salah aldeen,Khan Younes cross
+Khan Younes cross,Al Qarara salah aldeen
+Khan Younes cross,Khan Younes
+Khan Younes,Khan Younes cross
+Khan Younes Qa' al Qurein cross,Bani Suheila cross
+Bani Suheila cross,Khan Younes Qa' al Qurein cross
+Khan Younes Qa' al Qurein cross,Khan Younes
+Khan Younes,Khan Younes Qa' al Qurein cross
+Qa' al Qurein cross,Khan Younes Qa' al Qurein cross
+Khan Younes Qa' al Qurein cross,Qa' al Qurein cross
+Qa' al Qurein,Qa' al Qurein cross
+Qa' al Qurein cross,Qa' al Qurein
+Qa' al Qurein,Umm Kameil
+Umm Kameil,Qa' al Qurein
+Shokat as Sufi Al Buyuki,Shokat as Sufi
+Shokat as Sufi,Shokat as Sufi Al Buyuki
+Shokat as Sufi Al Buyuki,Shokat as Sufi cross salah aldeen
+Shokat as Sufi cross salah aldeen,Shokat as Sufi Al Buyuki
+Shokat as Sufi Al Buyuki,Al Buyuki
+Al Buyuki,Shokat as Sufi Al Buyuki
+Al Buyuki,Al Buyuki Qa' al Qurein cross
+Al Buyuki Qa' al Qurein cross,Al Buyuki
+Al Buyuki Qa' al Qurein cross,Qa' al Qurein
+Qa' al Qurein,Al Buyuki Qa' al Qurein cross
+Ibn Sena street,Tal as Sultan
+Tal as Sultan,Ibn Sena street
+Ibn Sena cross,Ibn Sena street
+Ibn Sena street,Ibn Sena cross
+Ibn Sena cross,Rafah
+Rafah,Ibn Sena cross
+Ibn Sena Kerr cross,Ibn Sena cross
+Ibn Sena cross,Ibn Sena Kerr cross
+Kerr cross,Ibn Sena Kerr cross
+Ibn Sena Kerr cross,Kerr cross
+Kerr cross,Kerr Al Qarya as Suwaydiya cross
+Kerr Al Qarya as Suwaydiya cross,Kerr cross
+Al Qarya as Suwaydiya,Kerr Al Qarya as Suwaydiya cross
+Kerr Al Qarya as Suwaydiya cross,Al Qarya as Suwaydiya
+Al Rasheed Al Qarya as Suwaydiya,Al Qarya as Suwaydiya
+Al Qarya as Suwaydiya,Al Rasheed Al Qarya as Suwaydiya
+Abu Baker,Ibn Sena Kerr cross
+Ibn Sena Kerr cross,Abu Baker
+Abu Baker,Abu Baker cross
+Abu Baker cross,Abu Baker
+Al Rasheed Abu Baker cross,Abu Baker cross
+Abu Baker cross,Al Rasheed Abu Baker cross
+Al Rasheed Abu Baker cross,Al Rasheed Al Qarya as Suwaydiya
+Al Rasheed Al Qarya as Suwaydiya,Al Rasheed Abu Baker cross
+Al Rasheed Khan Younes cross,Khan Younes
+Khan Younes,Al Rasheed Khan Younes cross
+Al Rasheed Khan Younes cross,Al Rasheed Abu Baker cross
+Al Rasheed Abu Baker cross,Al Rasheed Khan Younes cross
+Al Qarara,Al Qarara to Al Matahen
+Al Qarara to Al Matahen,Al Matahen
+Al Matahen,Al Matahen cross
+Al Matahen cross,Al Matahen Al Rasheed
+Al Matahen Al Rasheed,Al Rasheed Khan Younes cross
+Al Qarara to Al Matahen,Al Qarara
+Al Matahen,Al Qarara to Al Matahen
+Al Matahen cross,Al Matahen
+Al Matahen Al Rasheed,Al Matahen cross
+Al Rasheed Khan Younes cross,Al Matahen Al Rasheed
+Der Albalah Al Rasheed,Al Matahen Al Rasheed
+Al Matahen Al Rasheed,Der Albalah Al Rasheed
+Der Albalah Al Rasheed,Der Albalah
+Der Albalah,Der Albalah Al Rasheed
+Nserat Al Rasheed,Nserat
+Nserat,Nserat Al Rasheed
+Nserat Al Rasheed,Der Albalah Al Rasheed
+Der Albalah Al Rasheed,Nserat Al Rasheed
+Al Zahra Palestine street,Al Rasheed Palestine street
+Al Rasheed Palestine street,Al Zahra Palestine street
+Al Zahra Palestine street,Al Zahra
+Al Zahra,Al Zahra Palestine street
+Al Rasheed Palestine street,Nserat Al Rasheed
+Nserat Al Rasheed,Al Rasheed Palestine street
+Al Rasheed Palestine street,Al Rasheed Gaza
+Al Rasheed Gaza,Al Rasheed Palestine street
+Al Rasheed Gaza,Gaza
+Gaza,Al Rasheed Gaza
+Al Rasheed Gaza,Al Rasheed Jabalia
+Al Rasheed Jabalia,Al Rasheed Gaza
+Khan Younes Osama Al najar,Khan Younes
+Khan Younes,Khan Younes Osama Al najar
+Khan Younes Osama Al najar,Rafah Osama Al najar
+Rafah Osama Al najar,Khan Younes Osama Al najar
+Rafah Osama Al najar,Rafah
+Rafah,Rafah Osama Al najar
+Rafah Osama Al najar,Shokat as Sufi Osama Al najar
+Shokat as Sufi Osama Al najar,Rafah Osama Al najar
+Shokat as Sufi Osama Al najar,Rafah
+Rafah,Shokat as Sufi Osama Al najar
+Shokat as Sufi Osama Al najar,alorouba cross
+alorouba cross,Shokat as Sufi Osama Al najar
+jaber,Gaza
